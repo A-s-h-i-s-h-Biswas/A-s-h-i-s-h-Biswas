@@ -7,7 +7,7 @@
 
 <br/>
 
-<h1 align="center">Hi 👋, I'm Ashish Biswas</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ashish Biswas</h1>
 
 <h3 align="center">
 Full-Stack Developer • MERN • Next.js • TypeScript • Node.js • Cloud
@@ -15,7 +15,7 @@ Full-Stack Developer • MERN • Next.js • TypeScript • Node.js • Cloud
 
 <p align="center">
 Building scalable, production-ready web applications, mobile apps, SaaS platforms and real-world digital products.
-</p>
+</p> -->
 
 
 # 💫 About Me:
